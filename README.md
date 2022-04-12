@@ -37,6 +37,7 @@ will also find some Python projects that I have taught myself.
 
 ## Current Projects
 - [ ] SHA256 Generator
+- [ ] N Queens Problem
 - [X] Recursive Knight's Tour Chess Solution
 - [X] Linked Lists
 - [X] Caesar Cipher + Decoder
