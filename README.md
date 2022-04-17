@@ -19,6 +19,7 @@ will also find some Python projects that I have taught myself.
 * Cryptography
 * Snowboarding
 * Hiking
+* Film Photography
 * Anything Baseball
 
 ## Courses Completed / Courses In Progress
