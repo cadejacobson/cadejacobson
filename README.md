@@ -34,6 +34,7 @@ will also find some Python projects that I have taught myself.
   * Database Management
   * RISC Assembly
   * Software Engineering and Design
+  * Linear Algebra
 
 ## Current Projects
 - [ ] SHA256 Generator
