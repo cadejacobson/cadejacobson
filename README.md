@@ -37,14 +37,12 @@ pleasing way.
   * RISC Assembly
   * Software Engineering and Design
   * Linear Algebra
+  * Machine Learning
 
 ## Current Projects
-- [ ] SHA256 Generator
-- [ ] Roman Numerals
-- [ ] N Queens Problem
-- [X] Recursive Knight's Tour Chess Solution
-- [X] Linked Lists
-- [X] Caesar Cipher + Decoder
+- [ ] Become familiar with HTML
+- [ ] Become familiar with CSS
+- [X] Demonstrate source control
 
 ### Connect With Me!
 <!-- Actual text -->
@@ -66,6 +64,6 @@ pleasing way.
 ### Current Songs on Repeat While Debugging:
 Uptown Girl - Billy Joel
 
-Round & Round - Selena Gomez
+Naturally - Selena Gomez & the Scene
 
-The Middle - Zedd / Maren Morris
+avalanche - Christian French
