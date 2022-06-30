@@ -14,6 +14,10 @@ as a Software Engineer in the applied technology division. I code mostly in C++ 
 will also find some Python projects that I have taught myself. I have also started teaching myself HTML and CSS to be able to present my backend code in a more
 pleasing way.
 
+If you are interested in checking out my code, I would recommend the secondYearProjects repository. The prior independentProjects repository was a very poor 
+representation of my git abilities, comment explanations, and general code quality. The repository will no longer be updated, and new coding practice can be found on
+secondYearProjects. So far, I have added Leetcode solutions (along with their text explanations) and a few CSS demonstrations. I hope you enjoy!
+
 ## Interests
 * Artificial Intelligence
 * Automation
