@@ -30,7 +30,6 @@ I code mostly in C++ and Rust, but have other professional experience doing web 
   * Introduction to Digital Systems
   * Calculus I - III
 * Second Year
-  * Introduction to Artificial Intelligence
   * Analysis of Data Structures and Algorithms
   * Database Management
   * RISC Assembly
@@ -38,6 +37,13 @@ I code mostly in C++ and Rust, but have other professional experience doing web 
   * Linear Algebra
   * Machine Learning
 * Third Year
+  * Analysis of Algorithm
+  * CPU/GPU Organization and Architecture
+  * Cybersecurity
+  * Introduction to Data Science
+  * Abstract Algebra
+  * Operating Systems and VMs
+  * Industrial Control Systems Security
 
 ## Current Projects
 - [ ] Become familiar with HTML
