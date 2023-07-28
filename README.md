@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cadejacobson, a junior at South Dakota School of Mines and Technology.
 - 👀 I’m interested in computer science and will graduate in 2025.
-- 🌱 I’m currently learning C++ with Python on the side.
+- 🌱 I’m currently learning C++ and Rust, with Python on the side.
 - 📫 I can be reached at cade.jacobson@mines.sdsmt.edu.
 
 <!---
@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 Hello! I am a third year at South Dakota School of Mines and Technology studying computer science. I am also currently interning at Microsoft in Redmond, WA, where I 
 work on the Linux Provisioning Team. In the past, I interned at Raven Industries in Sioux Falls, SD, as a Software Engineer in the applied technology division.
 I code mostly in C++ and Rust, but have other professional experience doing web development and some Python work.
+
+Prior to working for Microsoft, I began working on a sign language website demo using .NET and the MVC framework. This paused during the time at my internship
+to be safe with my employment contract, but will continue after my job is done. When my work at Microsoft goes public, I will also speak about it here.
 
 ## Interests
 * Artificial Intelligence
@@ -37,7 +40,7 @@ I code mostly in C++ and Rust, but have other professional experience doing web 
   * Linear Algebra
   * Machine Learning
 * Third Year
-  * Analysis of Algorithm
+  * Analysis of Algorithms
   * CPU/GPU Organization and Architecture
   * Cybersecurity
   * Introduction to Data Science
@@ -46,9 +49,9 @@ I code mostly in C++ and Rust, but have other professional experience doing web 
   * Industrial Control Systems Security
 
 ## Current Projects
-- [ ] Become familiar with HTML
-- [ ] Become familiar with CSS
-- [X] Demonstrate source control
+- [ ] Sign Language Website
+- [ ] Create key/secret pair system
+- [X] Confidential Microsoft Work
 
 ### Connect With Me!
 <!-- Actual text -->
@@ -72,4 +75,4 @@ Uptown Girl - Billy Joel
 
 Naturally - Selena Gomez & the Scene
 
-avalanche - Christian French
+Where the Wild Things Are - Luke Combs
