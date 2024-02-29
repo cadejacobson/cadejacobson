@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @cadejacobson, a junior at South Dakota School of Mines and Technology.
-- 👀 I’m interested in computer science and will graduate in 2025.
-- 🌱 I’m currently learning C++ and Rust, with Python on the side.
-- 📫 I can be reached at cade.jacobson@mines.sdsmt.edu.
-
 <!---
 cadejacobson/cadejacobson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,8 +8,10 @@ Hello! I am a third year at South Dakota School of Mines and Technology studying
 work on the Linux Provisioning Team. In the past, I interned at Raven Industries in Sioux Falls, SD, as a Software Engineer in the applied technology division.
 I code mostly in C++ and Rust, but have other professional experience doing web development and some Python work.
 
-Prior to working for Microsoft, I began working on a sign language website demo using .NET and the MVC framework. This paused during the time at my internship
-to be safe with my employment contract, but will continue after my job is done. When my work at Microsoft goes public, I will also speak about it here.
+For the best look at my work, take a look at my pinned Azure-Init repo. This is a live open source repo that I created in my first week at Microsoft and served
+as my project for the Summer! This product is an agent that provisions VMs for Microsoft's cloud, Azure. It was written entirely in Rust for added security.
+
+In my personal time, I have enjoyed working on lower level implementations of code. I have made a Pytho
 
 ## Interests
 * Artificial Intelligence
@@ -46,12 +43,7 @@ to be safe with my employment contract, but will continue after my job is done. 
   * Introduction to Data Science
   * Abstract Algebra
   * Operating Systems and VMs
-  * Industrial Control Systems Security
-
-## Current Projects
-- [ ] Sign Language Website
-- [ ] Create key/secret pair system
-- [X] Confidential Microsoft Work
+  * Cryptography
 
 ### Connect With Me!
 <!-- Actual text -->
@@ -60,7 +52,6 @@ to be safe with my employment contract, but will continue after my job is done. 
 
 [1.1]: https://user-images.githubusercontent.com/91996442/162114571-0defc3f2-de17-439e-8935-e46897fc763e.png
 [2.1]: https://user-images.githubusercontent.com/91996442/162114709-f35b048a-8efa-4b86-8074-d299a9006b9d.png
-
 
 
 <!-- Links to your social media accounts -->
