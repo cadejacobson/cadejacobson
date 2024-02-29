@@ -11,7 +11,10 @@ I code mostly in C++ and Rust, but have other professional experience doing web 
 For the best look at my work, take a look at my pinned Azure-Init repo. This is a live open source repo that I created in my first week at Microsoft and served
 as my project for the Summer! This product is an agent that provisions VMs for Microsoft's cloud, Azure. It was written entirely in Rust for added security.
 
-In my personal time, I have enjoyed working on lower level implementations of code. I have made a Pytho
+In my personal time, I have enjoyed working on lower level implementations of code. I have made a Python emulator of a CPU that first converted obj files to 
+machine code in memory, and then running assembly code from those instructions. Along with this, I have written a BASH-like shell in C that handles everything
+from parallel commands, to piped input/output, to maintaining a command history while also tab completing input. These will be found in my repo soon, but were 
+completed outside of GitHub and added afterwards.
 
 ## Interests
 * Artificial Intelligence
