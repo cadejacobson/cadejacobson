@@ -4,8 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # TL;DR
-* **Tech Stack**: C++, Python, Rust, Web Development
-* **Internships**: 2x Microsoft (Azure Linux), Raven Industries, Property Meld, South Dakota Mines
+* **Current Role**: Software Engineer I - Microsoft (June 2025)
+* **Personal Tech Stack**: C++, Python, Rust, Web Development
+* **Previous Internships**: 2x Microsoft (Azure Linux), Raven Industries, Property Meld, South Dakota Mines
 * **Research**: Published Cybersecurity / Machine Learning Research Assistant
 * **Project of Note**: [Azure-Init](https://github.com/Azure/azure-init/) – Open-source agent for provisioning Azure VMs with Rust
 * **Academics**:
