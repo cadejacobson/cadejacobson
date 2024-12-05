@@ -3,28 +3,40 @@ cadejacobson/cadejacobson is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+# TL;DR
+* **Tech Stack**: C++, Python, Rust, Web Development
+* **Internships**: 2x Microsoft (Azure Linux), Raven Industries, Property Meld, South Dakota Mines
+* **Research**: Published Cybersecurity / Machine Learning Research Assistant
+* **Project of Note**: [Azure-Init](https://github.com/Azure/azure-init/) – Open-source agent for provisioning Azure VMs with Rust
+* **Academics**:
+   * BS Computer Science + Minor in Mathematics - South Dakota Mines - May 2025
+   * MBA Master of Business Administration - University of South Dakota - Expected May 2027
+
 # About Me
 Hello! I am a senior at South Dakota School of Mines and Technology studying computer science. 
-I am also incoming at Microsoft in Redmond, WA, where I will be a Software Engineer I for the Azure Linux team.
+I am also an incoming Software Engineer I at Microsoft in Redmond, WA, for the Azure Linux team.
 Along with this, I currently work at Property Meld as a Product and Development Intern (as a Dev and PM combo).
 In the past, I spent two summers at Microsoft on the same Azure Linux team and one at Raven Industries in Sioux Falls, SD, as a Software Engineer Intern in the applied technology division.
 I code mostly in C++ and Python, but have other professional experience doing web development and some Rust work.
 
-For the best look at my work, take a look at my pinned Azure-Init repo. This is a live open source repo that I created in my first week at Microsoft and servedas my project for the Summer! 
-This product is an agent that provisions VMs for Microsoft's cloud, Azure. It was written entirely in Rust for added security.
-
+For the best look at my work, take a look at my pinned Azure-Init repo. This is a live open source repo that I created in my first week at Microsoft and served as my project for the Summer! 
+This product is an agent that provisions VMs for Microsoft's cloud, Azure. It was written entirely in Rust for added security. 
 In my personal time, I have enjoyed working on lower level implementations of code. I have made a Python emulator of a CPU that first converted obj files to 
-machine code in memory, and then ran assembly code from those instructions. Along with this, I have written a BASH-like shell in C that handles everything
+machine code in memory, and then ran assembly code from those instructions. 
+Along with this, I have written a BASH-like shell in C that handles everything
 from parallel commands, to piped input/output, to maintaining a command history while also tab completing input. These will be found in my repo soon, but were 
 completed outside of GitHub and added afterwards.
 
+In academic news, I just started my MBA from the University of South Dakota in January 2025!
+I'm excited to begin learning how to better build the company side of an engineering team.
+This will enable me to have a broader understanding of how businesses run and to better communicate across organizations.
+
+
 ## Interests
-* Artificial Intelligence
-* Automation
-* Cryptography
 * Snowboarding
 * Hiking
 * Film Photography
+* Reading History
 * Anything Baseball
 
 ## Courses Completed / Courses In Progress
@@ -55,7 +67,6 @@ completed outside of GitHub and added afterwards.
   * GUI Development
 
 ### Connect With Me!
-<!-- Actual text -->
 
 [![ig][1.1]][1]   [![linked][2.1]][2]
 
@@ -63,7 +74,7 @@ completed outside of GitHub and added afterwards.
 [2.1]: https://user-images.githubusercontent.com/91996442/162114709-f35b048a-8efa-4b86-8074-d299a9006b9d.png
 
 
-<!-- Links to your social media accounts -->
+<!-- Links to social media accounts -->
 
 [1]: https://instagram.com/cadejacobson/
 [2]: https://www.linkedin.com/in/cade-jacobson-2782291a5/
