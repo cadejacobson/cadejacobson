@@ -12,6 +12,19 @@ You can click the Preview link to take a look at your changes.
    * BS Computer Science + Minor in Mathematics - South Dakota Mines - May 2025
    * MBA Master of Business Administration - University of South Dakota - Expected May 2027
 
+### Connect With Me!
+
+[![ig][1.1]][1] &nbsp; [![linked][2.1]][2]
+
+[1.1]: https://user-images.githubusercontent.com/91996442/162114571-0defc3f2-de17-439e-8935-e46897fc763e.png
+[2.1]: https://user-images.githubusercontent.com/91996442/162114709-f35b048a-8efa-4b86-8074-d299a9006b9d.png
+
+
+<!-- Links to social media accounts -->
+
+[1]: https://instagram.com/cadejacobson/
+[2]: https://www.linkedin.com/in/cade-jacobson-2782291a5/
+
 # About Me
 Hello! I am a senior at South Dakota School of Mines and Technology studying computer science. 
 I am also an incoming Software Engineer I at Microsoft in Redmond, WA, for the Azure Linux team.
@@ -65,19 +78,6 @@ This will enable me to have a broader understanding of how businesses run and to
   * Capstone Design
   * Programming Langauges
   * GUI Development
-
-### Connect With Me!
-
-[![ig][1.1]][1]   [![linked][2.1]][2]
-
-[1.1]: https://user-images.githubusercontent.com/91996442/162114571-0defc3f2-de17-439e-8935-e46897fc763e.png
-[2.1]: https://user-images.githubusercontent.com/91996442/162114709-f35b048a-8efa-4b86-8074-d299a9006b9d.png
-
-
-<!-- Links to social media accounts -->
-
-[1]: https://instagram.com/cadejacobson/
-[2]: https://www.linkedin.com/in/cade-jacobson-2782291a5/
 
 - - - -
 
