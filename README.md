@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 * **Research**: Published Cybersecurity / Machine Learning Research Assistant (First Author)
 * **Project of Note**: [Azure-Init](https://github.com/Azure/azure-init/) – Open-source agent for provisioning Azure VMs with Rust
 * **Academics**:
-   * MBA Master of Business Administration - University of South Dakota - Expected May 2027
    * BS Computer Science + Minor in Mathematics - South Dakota Mines - May 2025
 
 ### Connect With Me!
