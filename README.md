@@ -40,10 +40,6 @@ Along with this, I have written a BASH-like shell in C that handles everything
 from parallel commands, to piped input/output, to maintaining a command history while also tab completing input. These will be found in my repo soon, but were 
 completed outside of GitHub and added afterwards.
 
-In academic news, I just started my MBA from the University of South Dakota in January 2025!
-I'm excited to begin learning how to better build the company side of an engineering team.
-This will enable me to have a broader understanding of how businesses run and to better communicate across organizations.
-
 
 ## Interests
 * Snowboarding
