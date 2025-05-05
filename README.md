@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 * **Previous Internships**: 2x Microsoft (Azure Core Linux), Raven Industries, Property Meld, South Dakota Mines
 * **Research**: Published Cybersecurity / Machine Learning Research Assistant (First Author)
 * **Project of Note**: [Azure-Init](https://github.com/Azure/azure-init/) – Open-source agent for provisioning Azure VMs with Rust
-* * **Personal Tech Stack**: C++, Python, Rust, Web Development
+* **Personal Tech Stack**: C++, Python, Rust, Web Development
 * **Academics**: BS Computer Science + Minor in Mathematics - South Dakota Mines - May 2025
 
 ### Connect With Me!
