@@ -79,6 +79,6 @@ completed outside of GitHub and added afterwards.
 ### Current Songs on Repeat While Debugging:
 Uptown Girl - Billy Joel
 
-Naturally - Selena Gomez & the Scene
+Ajedrez - David Bisbal
 
 Where the Wild Things Are - Luke Combs
