@@ -77,8 +77,8 @@ completed outside of GitHub and added afterwards.
 - - - -
 
 ### Current Songs on Repeat While Debugging:
-Uptown Girl - Billy Joel
+[Uptown Girl - Billy Joel](https://www.youtube.com/watch?v=hCuMWrfXG4E)
 
-Ajedrez - David Bisbal
+[Ajedrez - David Bisbal](https://www.youtube.com/watch?v=_II0eSK2d2I)
 
-Where the Wild Things Are - Luke Combs
+[Where the Wild Things Are - Luke Combs](https://www.youtube.com/watch?v=aoJwvnDuAR0)
