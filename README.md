@@ -1,15 +1,10 @@
-<!---
-cadejacobson/cadejacobson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # TL;DR
 * **Current Role**: Software Engineer I - Microsoft (June 2025)
 * **Previous Internships**: 2x Microsoft (Azure Core Linux), Raven Industries, Property Meld, South Dakota Mines
 * **Research**: Published Cybersecurity / Machine Learning Research Assistant (First Author)
 * **Project of Note**: [Azure-Init](https://github.com/Azure/azure-init/) – Open-source agent for provisioning Azure VMs with Rust
 * **Personal Tech Stack**: C++, Python, Rust, Web Development
-* **Academics**: BS Computer Science + Minor in Mathematics - South Dakota Mines - May 2025
+* **Academics**: BS Computer Science + Minor in Mathematics (Summa Cum Laude) - South Dakota Mines - May 2025
 
 ### Connect With Me!
 
@@ -22,17 +17,19 @@ You can click the Preview link to take a look at your changes.
 <!-- Links to social media accounts -->
 
 [1]: https://instagram.com/cadejacobson/
-[2]: https://www.linkedin.com/in/cade-jacobson-2782291a5/
+[2]: https://www.linkedin.com/in/cadejacobson/
 
 # About Me
-Hello! I am a senior at South Dakota School of Mines and Technology studying computer science. 
-I am also an incoming Software Engineer I at Microsoft in Redmond, WA, for the Azure Linux team.
-Along with this, I currently work at Property Meld as a Product and Development Intern (as a Dev and PM combo).
-In the past, I spent two summers at Microsoft on the same Azure Linux team and one at Raven Industries in Sioux Falls, SD, as a Software Engineer Intern in the applied technology division.
-I code mostly in C++ and Python, but have other professional experience doing web development and some Rust work.
+Hello! I am a new graduate SWE for Microsoft Azure after graduating from South Dakota School of Mines and Technology.
+During my time in college, I majored in computer science and minored in mathematics while earning the Summa Cum Laude title.
+I had the pleasure of doing 5 internships in college at companies like [Microsoft](https://www.microsoft.com/en-us/) and [Raven Industries](https://www.ravenind.com/), totalling a total of 24 months of industry experience ranging from development to project management to webmaster.
+This is paired with a nearly two year long undergraduate research role where I was the first author on one published machine learning paper, and a joint author on an actuator attack survey paper.
+These positions can be seen more in-depth on my [LinkedIn](https://www.linkedin.com/in/cadejacobson/).
 
-For the best look at my work, take a look at my pinned Azure-Init repo. This is a live open source repo that I created in my first week at Microsoft and served as my project for the Summer! 
-This product is an agent that provisions VMs for Microsoft's cloud, Azure. It was written entirely in Rust for added security. 
+For the best look at my work, take a look at my pinned [Azure-Init](https://github.com/Azure/azure-init/) repo. 
+This is a live open source repo that I created in my first week at Microsoft and served as my project for the summer! 
+This product is an agent that provisions VMs for Microsoft's cloud, Azure. 
+It was written entirely in Rust for added security. 
 In my personal time, I have enjoyed working on lower level implementations of code. I have made a Python emulator of a CPU that first converted obj files to 
 machine code in memory, and then ran assembly code from those instructions. 
 Along with this, I have written a BASH-like shell in C that handles everything
