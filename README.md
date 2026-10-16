@@ -13,7 +13,6 @@
 [1.1]: https://user-images.githubusercontent.com/91996442/162114571-0defc3f2-de17-439e-8935-e46897fc763e.png
 [2.1]: https://user-images.githubusercontent.com/91996442/162114709-f35b048a-8efa-4b86-8074-d299a9006b9d.png
 
-
 <!-- Links to social media accounts -->
 
 [1]: https://instagram.com/cadejacobson/
@@ -36,40 +35,12 @@ Along with this, I have written a BASH-like shell in C that handles everything
 from parallel commands, to piped input/output, to maintaining a command history while also tab completing input. These will be found in my repo soon, but were 
 completed outside of GitHub and added afterwards.
 
-
 ## Interests
 * Snowboarding
 * Hiking
 * Film Photography
 * Reading History
 * Anything Baseball
-
-## Courses Completed / Courses In Progress
-* First Year
-  * Test Driven Development
-  * Finite Structures
-  * Programming Techniques
-  * Introduction to Digital Systems
-  * Calculus I - III
-* Second Year
-  * Analysis of Data Structures and Algorithms
-  * Database Management
-  * RISC Assembly
-  * Software Engineering and Design
-  * Linear Algebra
-  * Machine Learning
-* Third Year
-  * Analysis of Algorithms
-  * CPU/GPU Organization and Architecture
-  * Cybersecurity
-  * Introduction to Data Science
-  * Abstract Algebra
-  * Operating Systems and VMs
-* Fourth Year
-  * Networking and Data Communications
-  * Capstone Design
-  * Programming Langauges
-  * GUI Development
 
 - - - -
 
